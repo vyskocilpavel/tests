@@ -1,0 +1,29 @@
+{
+  "above": {
+    "category-1": [
+      {
+        "client-name": "druidlocalaai",
+        "display-name": "Druid Local AAI"
+      }
+    ]
+  },
+  "below": {
+    "category-1": [
+      {
+        "client-name": "google",
+        "display-name": "Google",
+        "icon": "https://www.gstatic.com/firebasejs/ui/2.0.0/images/auth/google.svg"
+      },
+      {
+        "client-name": "github",
+        "display-name": "Github",
+        "icon": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"
+      },
+      {
+        "client-name": "orcid",
+        "display-name": "ORCiD",
+        "icon": "https://orcid.wpengine.com/wp-content/uploads/2020/07/Asset-3.png"
+      }
+    ]
+  }
+}
