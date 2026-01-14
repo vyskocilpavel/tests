@@ -3,19 +3,13 @@
   "below": {
     "category-1": [
       {
-        "client-name": "google",
-        "display-name": "Google",
-        "icon": "https://www.gstatic.com/firebasejs/ui/2.0.0/images/auth/google.svg"
-      },
-      {
-        "client-name": "github",
-        "display-name": "Github",
-        "icon": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"
-      },
-      {
         "client-name": "orcid",
-        "display-name": "ORCiD",
-        "icon": "https://orcid.wpengine.com/wp-content/uploads/2020/07/Asset-3.png"
+        "display-name": "ORCid",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/960px-ORCID_iD.svg.png?20190308043226"
+      },
+      {
+        "client-name": "myaccessid-acc",
+        "display-name": "MyAccessID Acc"
       }
     ]
   }
